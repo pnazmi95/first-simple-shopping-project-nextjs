@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Book 1",
+    "price": 299,
+    "slug": "book-1",
+    "description": "New Book",
+    "cat": "Books",
+    "count": 29,
+    "image": "/images/book.jpg"
+  },
+  {
+    "title": "Book 2",
+    "price": 399,
+    "slug": "book-2",
+    "description": "New Book 2",
+    "cat": "Books",
+    "count": 39,
+    "image": "/images/book.jpg"
+  },
+  {
+    "title": "Book 3",
+    "price": 599,
+    "slug": "book-3",
+    "description": "New Book 3",
+    "cat": "Books",
+    "count": 22,
+    "image": "/images/book.jpg"
+  },
+  {
+    "title": "Book 4",
+    "price": 589,
+    "slug": "book-4",
+    "description": "New Book 4",
+    "cat": "Books",
+    "count": 55,
+    "image": "/images/book.jpg"
+  }
+]

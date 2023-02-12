@@ -1,5 +1,12 @@
+import Layout from "@/components/Layout";
+
 const HomePage = () => {
-  return <div className="p-3 bg-blue-600 text-white font-bold">HomePage</div>;
+    return (
+        <Layout title="Home Page">
+            HomePage
+        </Layout>
+    );
 };
+
 
 export default HomePage;
